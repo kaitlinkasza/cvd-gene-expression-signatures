@@ -1,0 +1,12 @@
+data/raw/
+data/processed/
+outputs/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+.DS_Store
